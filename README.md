@@ -7,8 +7,8 @@
 
 
 ### Dashboard Output 1
+![Img_20220227_230307295](https://user-images.githubusercontent.com/93371317/155894861-bdac6ff4-816d-4896-847c-88bed881095c.jpg)
 
-![App Screenshot](https://raw.githubusercontent.com/Princesharma11/Visualizations-And-Analysis-Of-IPL/main/Sample%20op%201.jpg)
 
 ### Dashboard Output 2
 
